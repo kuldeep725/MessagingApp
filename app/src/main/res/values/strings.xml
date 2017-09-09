@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MessagingApp</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="update_contact">UPDATE CONTACT</string>
+    <string name="select_a_contact">SELECT A CONTACT</string>
+    <string name="send_a_message">SEND A MESSAGE</string>
+</resources>
